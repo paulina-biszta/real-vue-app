@@ -8,7 +8,7 @@
     <h4>{{ event.title }}</h4>
 
   </div>
-  </router-link> |
+  </router-link> 
 </template>
 
 <script>
